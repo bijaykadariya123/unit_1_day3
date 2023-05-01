@@ -78,6 +78,12 @@ const dart = ["D'Art", "Demogorgan Dog", 2, "Upside Down"];
 ////////////////////////////////
 
 ////////////////////////////////
+// Create an array with the members of the ninja turtles (Donatello, Leonardo, Raphael, Michaelangelo)
+// const ninja_turtles = ["Donatello", "Leonardo", "Raphael", "Michaelangelo"];
+// for (let element of ninja_turtles) {
+//   console.log(element.toUpperCase());
+// }
+
 // Yell at the Ninja Turtles
 ////////////////////////////////
 

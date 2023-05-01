@@ -149,6 +149,20 @@ for (i = 1; i <= 100; i++) {
 ////////////////////////////////
 
 ////////////////////////////////
+// const whereIsWaldo = [
+//   ["Timmy", "Frank"],
+//   "Eggbert",
+//   ["Lucinda", "Jacc", "Neff", "Snoop"],
+//   ["Petunia", ["Baked Goods", "Waldo"]],
+// ];
+// whereIsWaldo.splice(1, 1);
+// console.log(whereIsWaldo);
+// whereIsWaldo[1].splice(2, 1, "No one");
+// console.log(whereIsWaldo);
+
+// let arr = whereIsWaldo[2][1].splice(1);
+// console.log("The desired value of waldo is " + arr);
+
 // Where is Waldo
 ////////////////////////////////
 

@@ -162,14 +162,52 @@ for (i = 1; i <= 100; i++) {
 
 // let arr = whereIsWaldo[2][1].splice(1);
 // console.log("The desired value of waldo is " + arr);
-
 // Where is Waldo
 ////////////////////////////////
 
 ////////////////////////////////
+
+// for (let i = 1; i <= 20; i++) {
+//   console.log("Love me, pet me! HSSSSSS!" + i);
+// }
+/////////////////////////////////////////////////////////////
+
+// I am not sure what the question is actually asking as of my understanding i am doing console.log  "the string  in array randomly if the number generated is even for 20 times else if the number is not even i am console.log Love me, pet me! HSSSSSS!"
+////////////////////////////////////////////////////////////
+// const kittyTalk = [
+//   "...human...why you taking pictures of me?...",
+//   "...the catnip made me do it...",
+//   "...why does the red dot always get away...",
+// ];
+
+// for (let i = 1; i <= 20; i++) {
+//   if (i % 2 === 0) {
+//     const index = Math.floor(Math.random() * kittyTalk.length);
+//     console.log(kittyTalk[index]);
+//   } else {
+//     console.log("Love me, pet me! HSSSSSS!");
+//   }
+// }
 //  Excited Kitten
-////////////////////////////////
+
+/////////////////////////////////////////////////////////////////
 
 ////////////////////////////////
-//  Find the Median
+
+// const nums = [14,11,16,15,13,16,15,17,19,11,12,14,19,11,15,17,11,18,12,17,12,71,18,15,12];
+// // assending array
+// nums.sort((a, b) => a - b);
+// // finding the middle value of array
+// const middleIndex = Math.floor(nums.length / 2);
+// // If the array has an odd number of elements, the median is the middle element
+// if (nums.length % 2 !== 0) {
+//   console.log(nums[middleIndex]);
+// }
+// // If the array has an even number of elements, the median is the average of the two middle elements
+// else {
+//   const median = (nums[middleIndex - 1] + nums[middleIndex]) / 2;
+//   console.log(median);
+// }
+
+//  Find the Median answered
 ////////////////////////////////
